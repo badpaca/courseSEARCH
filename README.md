@@ -12,4 +12,4 @@ a stock value changes or when a sports score is updated.
 Of course most universities have an anti-crawling policy on 
 their course webpages, so I have to include the standard 
 disclaimer that this code is meant to be for theoretical
-enjoyment only, except when allowed. 
+enjoyment only, except when allowed.  
