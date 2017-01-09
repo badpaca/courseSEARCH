@@ -13,3 +13,5 @@ Of course most universities have an anti-crawling policy on
 their course webpages, so I have to include the standard 
 disclaimer that this code is meant to be for theoretical
 enjoyment only, except when allowed.  
+
+C 2015, badpaca
